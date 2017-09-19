@@ -1,0 +1,16 @@
+#writeDiv{
+  text-align: center;
+}
+#writeDiv > a{
+  text-decoration: none;
+}
+table{
+  text-align: center;
+  width:1300px;
+}
+table td{
+  border-bottom: 1px dotted gray;
+}
+table tr a{
+  text-decoration: none;
+}

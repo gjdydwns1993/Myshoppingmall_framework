@@ -1,0 +1,23 @@
+#goodsImg{
+  float:left;
+  margin-left: 300px;
+}
+ul{
+  list-style: none;
+}
+li>a{
+  text-decoration: none;
+}
+ul,#detail , #annae{
+  clear:both;
+}
+table{
+  border: 3px;
+  border-collapse: collapse;
+  margin: 0px;
+  width:400px;
+  height: 300px;
+}
+#button{
+  width:77.6px;
+}
