@@ -1,5 +1,5 @@
 ### プロジェクト名
-+ Myshoppingmall_framework version
++ ショッピングモールサイトのフレームワークバージョン
 
 ### 使用技術
 + PHP, JavaScript, Jquery, HTML5, MySQL, Ajax
@@ -11,4 +11,4 @@
 + 1人
 
 ### 紹介
-+ Myshoppingmallサービスをframeworkを利用して作ったショッピングモールサイト
++ ショッピングモールサービスをフレームワークを利用して作ったショッピングモールサイト
